@@ -1,0 +1,60 @@
+<h1 align="center">Oi, eu sou o Emmanuel Capibaribe 👋</h1>
+
+<p align="center">
+  <b>Desenvolvedor Backend</b> • Python & FastAPI 🐍⚡ • Brasil 🇧🇷
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:emmanuel.rrbc@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=nunogues&label=Visitas&color=0e75b6&style=for-the-badge" />
+</p>
+
+---
+
+## 🚀 Sobre mim
+
+- 🐍 Desenvolvedor backend focado em **Python** e **FastAPI**
+- 🎯 Construindo APIs REST rápidas, simples e bem organizadas
+- 💬 Pergunte-me sobre: **Python, FastAPI e desenvolvimento de APIs**
+
+## 🛠️ Tecnologias
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge" />
+</p>
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nunogues&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunogues&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=nunogues&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🏆 Conquistas
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nunogues&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" />
+</p>
+
+## 🐍 Minha cobrinha de contribuições
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nunogues/nunogues/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nunogues/nunogues/output/github-snake.svg" />
+    <img alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/nunogues/nunogues/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  Feito com ☕ e Python • Bora conversar sobre backend!
+</p>
