@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Emmanuel Rodrigues — Backend, APIs e automação</title>
+<desc id="desc">Banner escuro com formas geométricas violetas e linhas de conexão.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#17112d"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a78bfa"/><stop offset="1" stop-color="#6366f1"/></linearGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#8b8ba8" stroke-opacity=".12" stroke-width="1"/></pattern>
+</defs>
+<rect width="1200" height="300" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="300" rx="22" fill="url(#grid)"/>
+<circle cx="1020" cy="70" r="150" fill="#7c3aed" opacity=".12"/>
+<circle cx="1100" cy="245" r="110" fill="#6366f1" opacity=".13"/>
+<path d="M850 0L1000 0L760 300L610 300Z" fill="url(#accent)" opacity=".08"/>
+<g fill="none" stroke="url(#accent)" stroke-width="2" opacity=".65"><path d="M840 70h100l40 40h120"/><path d="M910 190h70l35-35h120"/><circle cx="840" cy="70" r="5" fill="#a78bfa"/><circle cx="1100" cy="110" r="5" fill="#818cf8"/><circle cx="910" cy="190" r="5" fill="#a78bfa"/></g>
+<text x="82" y="122" fill="#f8fafc" font-family="Arial,Helvetica,sans-serif" font-size="48" font-weight="700" letter-spacing="1">EMMANUEL RODRIGUES</text>
+<text x="85" y="168" fill="#c4b5fd" font-family="Arial,Helvetica,sans-serif" font-size="22" letter-spacing="3">BACKEND  /  APIS  /  AUTOMAÇÃO</text>
+<text x="85" y="218" fill="#94a3b8" font-family="Arial,Helvetica,sans-serif" font-size="16">Construindo projetos, aprendendo e evoluindo com código.</text>
+</svg>
